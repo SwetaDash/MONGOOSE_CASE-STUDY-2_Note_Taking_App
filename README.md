@@ -1,0 +1,2 @@
+# MONGOOSE_CASE-STUDY-2_Note_Taking_App
+MONGOOSE_CASE STUDY 2_Note_Taking_App Description
